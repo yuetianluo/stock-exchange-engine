@@ -16,4 +16,5 @@ wget http://fastdl.mongodb.org/linux/mongodb-linux-x86_64-2.0.6.tgz
 ####Second typing 
 ######sudo npm install
 ######then: node nockmarket.js
+####All things are done. Then go to http://localhost:3000 and enjoy!
 
