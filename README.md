@@ -11,7 +11,7 @@ wget http://fastdl.mongodb.org/linux/mongodb-linux-x86_64-2.0.6.tgz
 #####Then you need a piece of configuration
 sudo mkdir /data
 sudo mkdir /data/db
-#####The last step is running the MongoDB daemon:
+#####The last step is to run the MongoDB daemon:
 sudo mongodb-linux-x86_64-2.0.6/bin/mongod
 
 ####Second typing 
